@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwitterApi2", "TwitterApi2.csproj", "{DFAD16E7-16DE-4121-92CD-FE19D437435F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFAD16E7-16DE-4121-92CD-FE19D437435F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAD16E7-16DE-4121-92CD-FE19D437435F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAD16E7-16DE-4121-92CD-FE19D437435F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAD16E7-16DE-4121-92CD-FE19D437435F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25A9C667-208C-4735-BF77-5FDFF65A24BA}
+	EndGlobalSection
+EndGlobal
